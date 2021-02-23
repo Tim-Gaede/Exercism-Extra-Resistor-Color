@@ -1,6 +1,6 @@
 using Test
 
-include("solution example.jl")
+include("resistor_color.jl")
 
 # Tests adapted from `problem-specifications//canonical-data.json` @ v1.0.0
 
